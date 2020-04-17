@@ -1,0 +1,1 @@
+This repository contains the code along and assignments I completed for Section 10 of the Udemy course, [NodeJS - The Complete Guide](https://www.udemy.com/course/nodejs-the-complete-guide/), which covers how to connect to a MySQL server to insert, edit, and delete data from a database. 
